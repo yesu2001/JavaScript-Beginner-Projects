@@ -44,6 +44,9 @@ Projects for Beginners using JavaScript
 ![Screenshot (85)](https://user-images.githubusercontent.com/72061096/137429746-04a782d7-0ed4-4176-bd47-06c22baf5bd5.png)
 
 
+## 10. Movies App
+
+![Screenshot (86)](https://user-images.githubusercontent.com/72061096/137429896-9b0d758f-bb08-4821-8399-fa8a2adc24c7.png)
 
 
 
